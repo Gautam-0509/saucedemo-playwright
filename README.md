@@ -6,9 +6,9 @@ This repository contains automated test scripts for the SauceDemo website, creat
 
 ## Test Scripts
 
-1. login_test.py** – Tests user login functionality  
-2. add_to_cart_test.py** – Tests adding product to cart  
-3. checkout_test.py** – Tests complete checkout process
+1. login_test.py – Tests user login functionality  
+2. add_to_cart_test.py – Tests adding product to cart  
+3. checkout_test.py – Tests complete checkout process
 
 ---
 
